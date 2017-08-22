@@ -1,11 +1,11 @@
 # Docker: Criando containers sem dor de cabeça - Alura
 
-- [ ] Explorando o Docker
-- [ ] O que são Containers?
-- [ ] Containers interativos com TTY
-- [ ] Instalando pacotes em um container
-- [ ] Escrevendo a primeira receita
-- [ ] Adicionando arquivos e diretórios com ADD
+- [x] Explorando o Docker
+- [x] O que são Containers?
+- [x] Containers interativos com TTY
+- [x] Instalando pacotes em um container
+- [x] Escrevendo a primeira receita
+- [x] Adicionando arquivos e diretórios com ADD
 - [ ] Automatizando a instalação do Wordpress
 - [ ] Entendendo a comunicação entre containers
 - [ ] Persistindo dados do container no host local
