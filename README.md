@@ -8,7 +8,7 @@
 - [x] Adicionando arquivos e diretórios com ADD
 - [x] Automatizando a instalação do Wordpress
 - [x] Entendendo a comunicação entre containers
-- [ ] Persistindo dados do container no host local
+- [x] Persistindo dados do container no host local
 - [ ] De onde veio o Docker?
 
 
