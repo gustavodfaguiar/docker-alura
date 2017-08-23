@@ -9,6 +9,6 @@
 - [x] Automatizando a instalação do Wordpress
 - [x] Entendendo a comunicação entre containers
 - [x] Persistindo dados do container no host local
-- [ ] De onde veio o Docker?
+- [x] De onde veio o Docker?
 
 
